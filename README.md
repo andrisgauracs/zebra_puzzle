@@ -21,22 +21,22 @@ These are the original rules of the puzzle:
 
 For this puzzle the rules are described in the input.txt file in such matter:
 
-5
-SAME;nationality;English;color;Red
-SAME;nationality;Spaniard;pet;Dog
-SAME;drink;Coffee;color;Green
-SAME;drink;Tea;nationality;Ukrainian
-TO_THE_LEFT_OF;color;Ivory;color;Green
-SAME;smoke;Old gold;pet;Snails
-SAME;smoke;Kools;color;Yellow
-SAME;drink;Milk;position;3
-SAME;nationality;Norwegian;position;1
-NEXT_TO;pet;Fox;smoke;Chesterfields
-NEXT_TO;smoke;Kools;pet;Horse
-SAME;smoke;Lucky strike;drink;Orange juice
-SAME;smoke;Parliaments;nationality;Japanese
-NEXT_TO;color;Blue;nationality;Norwegian
-SAME;drink;Water
-SAME;pet;Zebra
+5<br>
+SAME;nationality;English;color;Red<br>
+SAME;nationality;Spaniard;pet;Dog<br>
+SAME;drink;Coffee;color;Green<br>
+SAME;drink;Tea;nationality;Ukrainian<br>
+TO_THE_LEFT_OF;color;Ivory;color;Green<br>
+SAME;smoke;Old gold;pet;Snails<br>
+SAME;smoke;Kools;color;Yellow<br>
+SAME;drink;Milk;position;3<br>
+SAME;nationality;Norwegian;position;1<br>
+NEXT_TO;pet;Fox;smoke;Chesterfields<br>
+NEXT_TO;smoke;Kools;pet;Horse<br>
+SAME;smoke;Lucky strike;drink;Orange juice<br>
+SAME;smoke;Parliaments;nationality;Japanese<br>
+NEXT_TO;color;Blue;nationality;Norwegian<br>
+SAME;drink;Water<br>
+SAME;pet;Zebra<br>
 
 The result of the puzzle is printed out on the console and an output.xml file is generated.
